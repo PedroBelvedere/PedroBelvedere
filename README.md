@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedroBelvedere
-- 👀 I’m interested in cats and web and videogame development.
+- 👀 I’m interested in web and videogame development.
 - 🌱 I’m currently learning web development as a fullstack developer.
 - 💞️ I’m looking to collaborate on anything for beginners
 - 📫 How to reach me through my bussiness email: (not created yet).
